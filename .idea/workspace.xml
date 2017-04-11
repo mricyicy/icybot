@@ -37,6 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello.go" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -44,7 +51,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="652" />
+    <option name="x" value="653" />
     <option name="y" value="362" />
     <option name="width" value="1719" />
     <option name="height" value="980" />
@@ -188,7 +195,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="652" y="362" width="1719" height="980" extended-state="0" />
+    <frame x="653" y="362" width="1719" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20271067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

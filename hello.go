@@ -1,7 +1,6 @@
 package hello
 
 import (
-	"flag"
 	"fmt"
 
 	"github.com/bwmarrin/discordgo"
